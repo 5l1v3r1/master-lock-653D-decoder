@@ -12,5 +12,7 @@ The Master Lock No. 653D Set Your Own Combination Padlock features a 2in (50mm) 
 * Hardened steel shackle for extra cut resistance
 * Soft-touch bottom and side grips for no-slip grip
 
+![img](MLCOM_PRODUCT_653_schem.jpg)
+
 ## Pin Stack Smashing
 This is my new lock picking themed show on YouTube. You can see this software is action there: https://youtu.be/XzPPvKi5IcU
