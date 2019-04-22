@@ -16,3 +16,5 @@ The Master Lock No. 653D Set Your Own Combination Padlock features a 2in (50mm) 
 
 ## Pin Stack Smashing
 This is my new lock picking themed show on YouTube. You can see this software is action there: https://youtu.be/XzPPvKi5IcU
+
+![img](653D.png)
